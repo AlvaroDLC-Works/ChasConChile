@@ -14,6 +14,8 @@ Estructura del proyecto:
 - `docs/BITACORA.md` — bitácora de trabajo.
 - `docs/ROADMAP.md` — roadmap del proyecto.
 - `docs/DECISIONES.md` — decisiones arquitectónicas y de diseño.
+- `docs/APP_SHEET_DISEÑO.md` — diseño unificado del AppSheet.
+- `scripts/crear_topografia_sheets.gs` — Apps Script para generar Google Sheets y carpetas Drive.
 
 Módulos principales:
 - Clientes
