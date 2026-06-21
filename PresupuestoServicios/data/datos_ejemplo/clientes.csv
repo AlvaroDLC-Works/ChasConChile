@@ -1,0 +1,3 @@
+ID_Cliente,Nombre cliente,RUT,Teléfono,Email,Dirección,Comuna,Tipo cliente,Observaciones
+C001,Juan Perez,11.111.111-1,+56961234567,juan.perez@mail.cl,Av. Principal 123,Vitacura,Particular,
+C002,Constructora ABC,76.543.210-9,+5622345678,contacto@constructoraabc.cl,Av. Obra 45,Santiago,Constructor,

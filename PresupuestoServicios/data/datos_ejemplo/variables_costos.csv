@@ -1,0 +1,12 @@
+ID_Variable,Nombre variable,Categoría,Valor CLP,Unidad,Activo,Observaciones
+V001,Costo diario operador,Operación,80000,día,Sí,
+V002,Costo hora gabinete,Operación,15000,hora,Sí,
+V003,Costo hora CAD,Operación,12000,hora,Sí,
+V004,Costo traslado base,Servicios,5000,unidad,Sí,
+V005,Costo por km adicional,Servicios,200,km,Sí,
+V006,Costo NTRIP mensual prorrateado,Servicios,20000,mes,Sí,
+V007,Costo chip internet mensual prorrateado,Servicios,10000,mes,Sí,
+V008,Margen de utilidad recomendado %,Factor,30,%,Sí,
+V009,Retención boleta honorarios %,Impuestos,10,%,Sí,
+V010,Factor comuna alta plusvalía,Factor,1.2,unidad,Sí,
+V011,Factor urgencia,Factor,1.25,unidad,Sí,

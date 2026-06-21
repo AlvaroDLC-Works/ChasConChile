@@ -1,0 +1,4 @@
+ID_Tipo_Trabajo,Nombre del servicio,Descripción,Unidad de cobro,Precio base,Horas terreno estimadas,Horas gabinete estimadas,Requiere GNSS RTK,Requiere estación total,Requiere nivel,Requiere CAD,Requiere informe,Requiere entrega DWG/PDF
+T001,Levantamiento de límites de terreno,Medición de deslindes,Día,120000,1,4,Sí,Sí,No,Sí,Sí,Sí
+T002,Levantamiento planimétrico simple,Planimetría básica,Proyecto,90000,1,2,Sí,No,No,Sí,No,Sí
+T003,Apoyo topográfico por día,Apoyo por jornada,Día,80000,1,0,Sí,No,No,No,No,No

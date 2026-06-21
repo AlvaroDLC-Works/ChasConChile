@@ -1,0 +1,4 @@
+ID_Equipo,Nombre equipo,Tipo,Costo compra,Vida útil meses,Costo mensual estimado,Costo diario estimado,Activo
+E001,GNSS RTK Trimble,GNSS,4500000,60,75000,30000,Sí
+E002,Estación Total Leica,Estación Total,3200000,60,53333,22000,Sí
+E003,Notebook Ruger,Notebook,1200000,48,25000,10000,Sí
